@@ -1,0 +1,102 @@
+.section-title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.pricing .row {
+  padding-top: 0px;
+}
+
+.card {
+  margin-top: 57px;
+  border-radius: 8px 40px 40px 8px;
+  transition: all 0.5s ease-in-out;
+  box-shadow: 1px 0px 8px 2px rgb(234, 232, 239);
+}
+
+.bg-dark {
+  background-color: rgb(227, 27, 27);
+  background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+}
+
+label {
+  color: white;
+  margin-top: 15px;
+  font-family: "Itim", cursive;
+}
+
+.jumbotron {
+  background-color: rgb(223, 134, 17);
+  background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+}
+
+#gender {
+  width: 300px;
+}
+
+#slot {
+  width: 300px;
+}
+
+#dept {
+  width: 300px;
+}
+
+.form-group input {
+  width: 300px;
+  border: none;
+  /* border-bottom: 1px solid purple; */
+  border-bottom: 2px solid #add8e6;
+  outline: none;
+  font-size: 22px;
+  margin-bottom: 5px;
+  font-family: "Itim", cursive;
+  border-radius: 15px;
+}
+
+option {
+  width: 400px;
+  border: none;
+  border-bottom: 2px solid rgb(207, 183, 29);
+  outline: none;
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.form-group input:hover {
+  background-color: ghostwhite;
+}
+
+#btn {
+  background-color: #add8e6;
+  font-size: 20px;
+  border-radius: 15px;
+  border: none;
+  position: relative;
+  width: 300px;
+}
+
+#btn:hover {
+  background-color: rgba(255, 255, 255, 0.333);
+  color: rgb(0, 0, 0);
+  background-image: linear-gradient(315deg, rgb(226, 230, 224) 0%, #add8e6 74%);
+}
+#btn btn-dark btn-sm btn-block {
+  background-color: #e9ecee;
+}
+#form-control mr-sm-2 {
+  border-radius: 50px;
+}
+#text-center bg-dark text-white {
+  padding: 10px;
+}
+.fade-bc {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px; /* Optional: Adds some padding around the text */
+    border-radius: 5px; /* Optional: Adds rounded corners */
+    height: 100px;
+    width: 100%;
+  }
