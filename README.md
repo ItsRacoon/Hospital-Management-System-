@@ -65,8 +65,8 @@ This project is a Hospital Management System built using HTML, CSS, Flask, and a
 5. **Set Up the Database**:
 
     - Make sure XAMPP is running (Apache and MySQL).
-    - Create a database named `hospital_db`.
-    - Update the database configuration in your Flask application if necessary (usually found in `config.py` or a similar file).
+    - Create a database named `hospital`.
+    - Update the database configuration in your Flask application if necessary (usually found in `main.py` or a similar file).
 
 6. **Run the Application**:
 
@@ -99,8 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or need further assistance, please contact me at [your-email@example.com].
+If you have any questions or need further assistance, please contact me at [visheshprajapati1234@gmail.com].
 
 ---
 
-This `README.md` file provides an overview of your project, instructions for installation and usage, and guidelines for contributing. Be sure to update the placeholders (like `your-username`, `your-repository-name`, and `your-email@example.com`) with your actual details.
